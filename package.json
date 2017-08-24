@@ -1,0 +1,16 @@
+{
+  "name": "test-deployment",
+  "version": "1.0.0",
+  "description": "for test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "sh1m@r",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  }
+}
